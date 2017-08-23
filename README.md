@@ -21,7 +21,7 @@ Track changes of specific folders, files or even blocks of source code:
 
 [More about files and folders history](#files-and-folders)
 
-[More about source code history](#source-code-blocks-classesand-methods)
+[More about source code history](#source-code-blocks-classes-and-methods)
 
 ### Files and folders
 
