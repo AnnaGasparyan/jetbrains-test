@@ -5,7 +5,9 @@ Local history is a built-in real-time version control system. Every time you edi
 **Important** Local history is cleared in case of IntelliJ IDEA update or cleaning out the system caches. Be sure you checked in all the changes to external version control system before performing these operations.
 
 [View and restore changes](view-and-restore-changes)
+
 [Add labels](add-labels)
+
 [View recent changes](view-recent-changes)
 
 ## View and restore changes
@@ -18,6 +20,7 @@ Track changes of specific folders, files or even blocks of source code:
 4. Restore any version using the **Revert** button.
 
 [More about files and folders history](#files-and-folders)
+
 [More about source code history](#source-code-blocks-classesand-methods)
 
 ### Files and folders
